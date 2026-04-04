@@ -1,12 +1,12 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kleio-build/kleio-cli/releases/download/v0.0.1/kleio_0.0.1_windows_x86_64.zip",
+            "url": "https://github.com/kleio-build/kleio-cli/releases/download/v0.0.2/kleio_0.0.2_windows_x86_64.zip",
             "bin": [
                 "kleio.exe"
             ],
-            "hash": "e2eca5be8748eccc733d60158ce6acc5f25448a6b80d5d915848901dcfe49ca9"
+            "hash": "7bc14dfd9952674283b667d756c0b5edafcedc92d1ec18f8e5152fae8d554a82"
         }
     },
     "homepage": "https://github.com/kleio-build/kleio-cli",
